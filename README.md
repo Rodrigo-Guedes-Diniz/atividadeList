@@ -1,0 +1,1 @@
+O projeto apresenta uma atividade em Java utilizando List. Nesse projeto foi criado um sistema que cadastra funcionários com todos os seus atributos, depois é selecionado um deles para aumentar o seu salário passando a porcentagem do aumento e imprimir na tela o Id, nome e salário atualizado deles
